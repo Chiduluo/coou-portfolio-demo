@@ -1,0 +1,6 @@
+{
+  "name": "Obsidian Kinetic - Systems Portfolio",
+  "description": "High-caliber software engineering and computer science portfolio featuring distributed systems architecture, interactive consensus visualizer, benchmarks, and technical case studies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
